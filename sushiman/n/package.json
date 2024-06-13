@@ -1,5 +1,5 @@
 {
-  "name": "sushiman",
+  "name": "n",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +10,5 @@
   },
   "devDependencies": {
     "vite": "^5.2.0"
-  },
-  "dependencies": {
-    "aos": "^2.3.4",
-    "asos": "^1.1.1"
   }
 }
